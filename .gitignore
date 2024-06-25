@@ -1,3 +1,4 @@
 node_modules
 output.vcf
 *.xlsx
+.DS_Store
